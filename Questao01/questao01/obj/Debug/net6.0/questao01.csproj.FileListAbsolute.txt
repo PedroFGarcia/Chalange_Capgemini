@@ -1,0 +1,15 @@
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\questao01.exe
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\questao01.deps.json
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\questao01.runtimeconfig.json
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\questao01.dll
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\ref\questao01.dll
+D:\ChallengeCPG\Questão 01\questao01\bin\Debug\net6.0\questao01.pdb
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.csproj.AssemblyReference.cache
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.AssemblyInfoInputs.cache
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.AssemblyInfo.cs
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.csproj.CoreCompileInputs.cache
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.dll
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\ref\questao01.dll
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.pdb
+D:\ChallengeCPG\Questão 01\questao01\obj\Debug\net6.0\questao01.genruntimeconfig.cache
