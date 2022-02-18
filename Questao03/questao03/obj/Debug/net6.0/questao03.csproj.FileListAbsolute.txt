@@ -1,0 +1,15 @@
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\questao03.exe
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\questao03.deps.json
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\questao03.runtimeconfig.json
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\questao03.dll
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\ref\questao03.dll
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\bin\Debug\net6.0\questao03.pdb
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.csproj.AssemblyReference.cache
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.AssemblyInfoInputs.cache
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.AssemblyInfo.cs
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.csproj.CoreCompileInputs.cache
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.dll
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\ref\questao03.dll
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.pdb
+C:\Users\pedro\DesafioCPG\Chalange_Capgemini\Questao03\questao03\obj\Debug\net6.0\questao03.genruntimeconfig.cache
